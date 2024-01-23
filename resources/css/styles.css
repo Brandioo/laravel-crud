@@ -1,0 +1,32 @@
+/* public/css/styles.css */
+
+body {
+    padding-top: 5rem;
+}
+
+.container {
+    margin-top: 2rem;
+}
+
+.btn-create {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-edit {
+    background-color: #ffc107;
+    color: #000;
+}
+
+.btn-delete {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.card {
+    margin-top: 1rem;
+}
+
+.alert {
+    margin-top: 2rem;
+}
